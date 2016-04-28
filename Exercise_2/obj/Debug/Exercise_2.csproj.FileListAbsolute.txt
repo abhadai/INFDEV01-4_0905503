@@ -1,1 +1,6 @@
 C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\obj\Debug\Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\Andy\Source\Repos\INFDEV01-4_0905503\Exercise_2\obj\Debug\Exercise_2.pdb
